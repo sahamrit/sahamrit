@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahamrit
 - 👀 I’m interested in Deep Learning(DL) and Quantum Computing(QC)
-- 🌱 I’m currently learning DL on Graphs and Basics of QC
-- 💞️ I’m looking to collaborate on the same
+- 🌱 Have worked on DL problems involving graphs, object detection| tracking etc.
+- 💞️ I’m looking to collaborate on interesting AI projects!
 - 📫 How to reach me sahuamrit@microsoft.com | amritsahu.iitkgp@gmail.com
 
 <!---
