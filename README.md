@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahamrit
+- 👋 Hi, I’m Amrit Sahu
 - 👀 I’m interested in Deep Learning(DL) and Quantum Computing(QC)
 - 🌱 Have worked on DL problems involving graphs, object detection| tracking etc.
 - 💞️ I’m looking to collaborate on interesting AI projects!
