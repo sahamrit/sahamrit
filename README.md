@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrit Sahu
 - 👀 I’m interested in contributing in the field Deep Learning, Real World AI and AGI.
-- 🌱 Have worked on DL problems involving graphs, object detection, tracking etc.
+- 🌱 Have worked on DL problems involving ASR, graphs, object tracking etc.
 - 💞️ I’m looking to collaborate on interesting AI projects!
 - 📫 How to reach me sahuamrit@microsoft.com | amritsahu.iitkgp@gmail.com
 
