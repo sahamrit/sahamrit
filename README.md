@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Amrit Sahu
-- 👀 I’m interested in contributing in the field Deep Learning, Real World AI and AGI.
-- 🌱 Have worked on DL problems involving ASR, graphs, object tracking etc.
-- 💞️ I’m looking to collaborate on interesting AI projects!
-- 📫 How to reach me sahuamrit@microsoft.com | amritsahu.iitkgp@gmail.com
+- 👋 Hi, I’m Amrit Sahu.
+- 👀 I work on projects in the field of ML inference & optimisation.
+- 🌱 I love learning core CS fundamentals.
+- 💞️ I am currently trying to improve LLM based mental health.
+- 📫 How to reach me - amritsahu.iitkgp@gmail.com
 
 <!---
 sahamrit/sahamrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
