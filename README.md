@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amrit Sahu.
 - 👀 I work on projects in the field of ML inference & optimisation.
 - 🌱 I love learning core CS fundamentals.
-- 💞️ I am currently trying to improve LLM based mental health.
+- 💞️ I am currently trying to contribute to OSS, and travel India.
 - 📫 How to reach me - amritsahu.iitkgp@gmail.com
 
 <!---
